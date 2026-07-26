@@ -15,44 +15,39 @@ A clean, modern, and visually appealing Gym Landing Page designed to practice pr
 
 </div>
 
+---
+
 # 📸 Project Preview
 
 ## Hero Section
 
-<img width="1888" height="867" alt="Screenshot 2026-07-25 215736" src="https://github.com/user-attachments/assets/ff951cfd-ddff-4b5e-a409-89ca8ff4fa31" />
-
+<img width="1888" height="867" alt="Hero Section" src="https://github.com/user-attachments/assets/ff951cfd-ddff-4b5e-a409-89ca8ff4fa31" />
 
 ---
 
 ## About Section
 
-<img width="1891" height="870" alt="Screenshot 2026-07-25 215756" src="https://github.com/user-attachments/assets/af74fc51-cb62-40f5-b634-837427f01597" />
-
-
----
-
-## Classes Section and Trainers Section
-
-<img width="1888" height="870" alt="Screenshot 2026-07-25 215817" src="https://github.com/user-attachments/assets/ada98390-9fbf-42fb-a553-061ac885ce29" />
-
+<img width="1891" height="870" alt="About Section" src="https://github.com/user-attachments/assets/af74fc51-cb62-40f5-b634-837427f01597" />
 
 ---
 
+## Classes & Trainers Section
+
+<img width="1888" height="870" alt="Classes and Trainers" src="https://github.com/user-attachments/assets/ada98390-9fbf-42fb-a553-061ac885ce29" />
+
+---
 
 ## Membership Plans
 
-<img width="1879" height="876" alt="Screenshot 2026-07-25 215838" src="https://github.com/user-attachments/assets/9faca9a3-a7a9-48c1-837a-fac8d01b837c" />
-
-
----
-
-## Testimonials and footer
-
-<img width="1875" height="866" alt="Screenshot 2026-07-25 215852" src="https://github.com/user-attachments/assets/c9048444-a06a-4f8d-bc58-6122f0cd5198" />
-
+<img width="1879" height="876" alt="Membership Plans" src="https://github.com/user-attachments/assets/9faca9a3-a7a9-48c1-837a-fac8d01b837c" />
 
 ---
 
+## Testimonials & Footer
+
+<img width="1875" height="866" alt="Testimonials and Footer" src="https://github.com/user-attachments/assets/c9048444-a06a-4f8d-bc58-6122f0cd5198" />
+
+---
 
 # ✨ Features
 
@@ -91,12 +86,12 @@ A clean, modern, and visually appealing Gym Landing Page designed to practice pr
 
 ```text
 powerfit-gym-landing-page/
-
-│── images/
-│── index.html
-│── style.css
-│── README.md
-
+│
+├── images/
+├── index.html
+├── style.css
+└── README.md
+```
 
 ---
 
@@ -133,7 +128,7 @@ While building this project, I improved my understanding of:
 
 The goal of this project was to strengthen my frontend development skills by creating a complete landing page from scratch.
 
-Instead of focusing on individual sections only, I challenged myself to build an entire website with a consistent design system, reusable components, modern layouts, and interactive user experience.
+Instead of focusing on individual sections only, I challenged myself to build an entire website with a consistent design system, reusable components, modern layouts, and an interactive user experience.
 
 This project helped me gain practical experience in converting UI designs into clean and maintainable frontend code.
 
@@ -143,35 +138,40 @@ This project helped me gain practical experience in converting UI designs into c
 
 ## Sarfraz Ali
 
-Frontend Developer (Learning)
+**Frontend Developer**
 
 🎓 BS Computer Science
 
 🇵🇰 Pakistan
 
-GitHub:
+**GitHub**  
 https://github.com/Sarfraz94
 
-LinkedIn:
-https://www.linkedin.com/in/sarfraz-ali-765b082b6?utm_source=share_via&utm_content=profile&utm_medium=member_android
+**LinkedIn**  
+https://www.linkedin.com/in/sarfraz-ali-765b082b6
 
 ---
 
-
 # ⭐ Support
 
-If you enjoyed this project or found it helpful,
+If you enjoyed this project or found it helpful, please consider giving this repository a **⭐ Star**.
 
-Please consider giving this repository a ⭐ Star.
-
-It motivates me to continue learning and building more professional projects.
+Your support motivates me to continue learning, building, and sharing more professional frontend projects.
 
 ---
 
 <div align="center">
 
-### Thank you for visiting this repository ❤️
+## 🚀 Thank You for Visiting
 
-Made with passion by **Sarfraz Ali**
+If you like this project, don't forget to leave a ⭐ on the repository.
+
+Your feedback and support are always appreciated.
+
+<br>
+
+### 💙 Designed & Developed by Sarfraz Ali
+
+*Keep Learning • Keep Building • Keep Growing*
 
 </div>
